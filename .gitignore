@@ -1,0 +1,18 @@
+# Eclipse文件、文件夹
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# IntelliJ IDEA文件、文件夹
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# Gradle产物
+build
+.gradle
